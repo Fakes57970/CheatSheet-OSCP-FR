@@ -1,3 +1,3 @@
-Note pour l'OSCP
+# Notes pour l'OSCP
 
-Pas encore fini
+Pas encore fini !
